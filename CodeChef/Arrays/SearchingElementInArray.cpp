@@ -1,3 +1,14 @@
+/**
+ * @file SearchingElementInArray.cpp
+ * @author anudeep
+ * @brief This file shows how to search an element in a vector
+ * @version 0.1
+ * @date 2024-11-19
+ * 
+ * @copyright Copyright (c) 2024
+ * 
+ */
+
 #include <iostream>
 #include<vector>
 using namespace std;
